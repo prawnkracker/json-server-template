@@ -6,7 +6,7 @@
       "artist": "Frank Ocean",
       "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg",
       "runtime": "1:00:08",
-      "genres": ["R&B"]
+      "genre": "R&B"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "artist": "The Strokes",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/The_Strokes_-_Is_This_It_cover.png/220px-The_Strokes_-_Is_This_It_cover.png",
       "runtime": "35:48",
-      "genres": ["Indie Rock"]
+      "genre": "Indie Rock"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "artist": "Omar Apollo",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/IvoryMarfil.png/220px-IvoryMarfil.png",
       "runtime": "40:54",
-      "genres": ["Pop","R&B"]
+      "genre": "R&B"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "artist": "Joji",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Joji_-_Nectar.png/220px-Joji_-_Nectar.png",
       "runtime": "53:14",
-      "genres": ["R&B"]
+      "genre": "R&B"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "artist": "The Smiths",
       "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png",
       "runtime": "37:11",
-      "genres": ["Indie Rock"]
+      "genre": "Indie Rock"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "artist": "Harry Styles",
       "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png",
       "runtime": "41:59",
-      "genres": ["Pop"]
+      "genre": "Pop"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "artist": "Kendrick Lamar",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "runtime": "1:18:51",
-      "genres": ["Hip Hop"]
+      "genre": "Hip Hop"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "artist": "Car Seat Headrest",
       "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Twin_fantasy.jpg",
       "runtime": "1:11:16",
-      "genres": ["Indie Rock"]
+      "genre": "Indie Rock"
     }
   ]
 }
