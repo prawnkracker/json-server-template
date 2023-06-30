@@ -13,7 +13,7 @@
       "album": "Is This It",
       "artist": "The Strokes",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/The_Strokes_-_Is_This_It_cover.png/220px-The_Strokes_-_Is_This_It_cover.png",
-      "runtime": "35:48",
+      "runtime": "00:35:48",
       "genre": "Indie Rock"
     },
     {
@@ -21,7 +21,7 @@
       "album": "Ivory (Marfil)",
       "artist": "Omar Apollo",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/IvoryMarfil.png/220px-IvoryMarfil.png",
-      "runtime": "40:54",
+      "runtime": "00:40:54",
       "genre": "R&B"
     },
     {
@@ -29,7 +29,7 @@
       "album": "Nectar",
       "artist": "Joji",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Joji_-_Nectar.png/220px-Joji_-_Nectar.png",
-      "runtime": "53:14",
+      "runtime": "00:53:14",
       "genre": "R&B"
     },
     {
@@ -37,7 +37,7 @@
       "album": "The Queen Is Dead",
       "artist": "The Smiths",
       "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png",
-      "runtime": "37:11",
+      "runtime": "00:37:11",
       "genre": "Indie Rock"
     },
     {
@@ -45,7 +45,7 @@
       "album": "Harry's House",
       "artist": "Harry Styles",
       "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png",
-      "runtime": "41:59",
+      "runtime": "00:41:59",
       "genre": "Pop"
     },
     {
